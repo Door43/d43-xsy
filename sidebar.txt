@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsy:home|Door43 (xsy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsy|d43-xsy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsy/archive/master.zip|d43-xsy.zip]]
+
+**Recent Changes**
+{{changes>ns = xsy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsy|Ethnologue data]]
+
